@@ -1,0 +1,15 @@
+[submodule "modules/learn-motion-planning"]
+	path = modules/learn-motion-planning
+	url = https://github.com/Rudip1/learn-motion-planning.git
+[submodule "modules/learn-state-estimation"]
+	path = modules/learn-state-estimation
+	url = https://github.com/Rudip1/learn-state-estimation.git
+[submodule "modules/learn-manipulator-control"]
+	path = modules/learn-manipulator-control
+	url = https://github.com/Rudip1/learn-manipulator-control.git
+[submodule "modules/learn-computer-vision"]
+	path = modules/learn-computer-vision
+	url = https://github.com/Rudip1/learn-computer-vision.git
+[submodule "modules/learn-sensor-fusion"]
+	path = modules/learn-sensor-fusion
+	url = https://github.com/Rudip1/learn-sensor-fusion.git
