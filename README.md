@@ -13,8 +13,8 @@ exercises and break the assumptions on purpose.
 | 4 | [learn-computer-vision](https://github.com/Rudip1/learn-computer-vision) | camera models, calibration, homographies, epipolar geometry, stereo, PnP, visual odometry, event cameras | [vehicle-manipulator-task-priority](https://github.com/Rudip1/vehicle-manipulator-task-priority) (marker pose) |
 | 5 | [learn-sensor-fusion](https://github.com/Rudip1/learn-sensor-fusion) | GNSS and coordinate frames, point clouds, ICP odometry, GNSS + LiDAR EKF, map building, dynamic objects | — |
 
-Modules are being rebuilt to the [module standard](MODULE_STANDARD.md); each module's `ROADMAP.md` says which
-chapters are finished.
+All five modules follow the [module standard](MODULE_STANDARD.md) and are complete: every chapter of each
+module's `ROADMAP.md` has its theory, tested C++ code and notebooks.
 
 ## Get it
 
