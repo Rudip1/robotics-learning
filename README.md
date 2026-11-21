@@ -10,7 +10,7 @@ exercises and break the assumptions on purpose.
 | 1 | [learn-motion-planning](https://github.com/Rudip1/learn-motion-planning) | vehicle models, graph search, RRT*, Dubins, local planning, behaviour trees, task planning, Q-learning | [lidar-exploration](https://github.com/Rudip1/lidar-exploration), [CA-MCW](https://github.com/Rudip1/CA-MCW) |
 | 2 | [learn-state-estimation](https://github.com/Rudip1/learn-state-estimation) | Bayes, Kalman, EKF and particle filters, data association, EKF-SLAM, ICP and pose graphs | [pekf-slam-icp](https://github.com/Rudip1/pekf-slam-icp) |
 | 3 | [learn-manipulator-control](https://github.com/Rudip1/learn-manipulator-control) | forward kinematics, Jacobians, resolved-rate and task-priority control, mobile manipulation | [vehicle-manipulator-task-priority](https://github.com/Rudip1/vehicle-manipulator-task-priority) |
-| 4 | [learn-computer-vision](https://github.com/Rudip1/learn-computer-vision) | camera models, calibration, homographies, epipolar geometry, stereo, PnP, visual odometry, event cameras | — |
+| 4 | [learn-computer-vision](https://github.com/Rudip1/learn-computer-vision) | camera models, calibration, homographies, epipolar geometry, stereo, PnP, visual odometry, event cameras | [vehicle-manipulator-task-priority](https://github.com/Rudip1/vehicle-manipulator-task-priority) (marker pose) |
 | 5 | [learn-sensor-fusion](https://github.com/Rudip1/learn-sensor-fusion) | GNSS and coordinate frames, point clouds, ICP, GNSS + LiDAR fusion, dynamic-object filtering | — |
 
 Modules are being rebuilt to the [module standard](MODULE_STANDARD.md); each module's `ROADMAP.md` says which
